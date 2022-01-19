@@ -1,0 +1,58 @@
+.Rover{
+    font-family: 'Lato', sans-serif;
+    background-color: gray;
+    padding: 10px;
+}
+
+.Rover h1{
+    margin-top: 0;
+    text-align: center;
+}
+
+.Rover ul{
+    list-style: none;
+    padding: 0;
+    margin: 16 50 16 50; 
+}
+
+.liked{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.unliked{
+    text-align: center;
+    margin-bottom: 10px
+}
+.container{
+    padding-top: 40px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.container img{
+    width: 75%;
+    height: 75%;
+    border-radius: 10px;
+
+}
+
+.container button{
+    width: 55px;
+    height: 55px;
+    border-radius: 5px;
+    text-align: center;
+}
+.container p{
+    font-weight: bold;
+}
+
+
+.date{
+    font-style: italic;
+}
+
+
+
