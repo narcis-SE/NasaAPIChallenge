@@ -23,6 +23,9 @@ function Rover(){
                 {
                     roverList.map((roverList,i)=>
                     <li key={i}>
+                        <div className="storage">
+
+                       
                             <div className="container">
                                 <img src={roverList.img_src} alt=""/>
                                 <p>{roverList.rover.name} - {roverList.camera.full_name}</p>
@@ -30,8 +33,8 @@ function Rover(){
                                   <p>{roverList.earth_date}</p>
                                   <Button />
                                 </div>
+                            </div>
                         </div>
-
 
                     </li>
                     
