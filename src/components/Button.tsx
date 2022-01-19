@@ -17,11 +17,10 @@ function Button(){
 
     return(
         <div className={isClick? "liked": "unliked"}>
+            <div className= "heart" style={{textAlign:"center"}} >
+                <Heart isClick={isClick} onClick={likeButton}>{isClick? "unlike":"like"}/</Heart>
+            </div>
         <button onClick={likeButton}>{isClick? "Unlike":"Like"}</button>
-         <div style={{width: "2rem"}}>
-            <Heart isClick={isClick} onClick={likeButton}>{isClick? "unlike":"like"}/</Heart>
-        </div>
-
     </div>
     )
 }
