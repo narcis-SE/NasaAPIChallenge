@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NasaAPIChallenge/static/css/main.141fb78e.css",
+    "main.js": "/NasaAPIChallenge/static/js/main.aeba93d2.js",
+    "static/js/787.a220e49e.chunk.js": "/NasaAPIChallenge/static/js/787.a220e49e.chunk.js",
+    "index.html": "/NasaAPIChallenge/index.html",
+    "main.141fb78e.css.map": "/NasaAPIChallenge/static/css/main.141fb78e.css.map",
+    "main.aeba93d2.js.map": "/NasaAPIChallenge/static/js/main.aeba93d2.js.map",
+    "787.a220e49e.chunk.js.map": "/NasaAPIChallenge/static/js/787.a220e49e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.141fb78e.css",
+    "static/js/main.aeba93d2.js"
+  ]
+}
